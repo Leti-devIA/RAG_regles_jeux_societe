@@ -31,7 +31,7 @@ Ce projet utilise l'IA pour :
 ### 1. 📁 Préparer votre environnement
 
 ```bash
-git clone https://github.com/ton-utilisateur/assistant-regles-jeux.git
+git clone https://github.com/Leti-devIA/RAG_regles_jeux_societe.git
 cd assistant-regles-jeux
 python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate sur Windows
