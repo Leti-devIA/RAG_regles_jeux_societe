@@ -14,6 +14,13 @@ Ce projet utilise l'IA pour :
 
 ---
 
+## 📽️ Démonstration vidéo
+
+👉 [Cliquez ici pour voir la démonstration](demo.mp4)
+
+
+---
+
 ## 📦 Technologies utilisées
 
 | Outil / Lib          | Rôle |
